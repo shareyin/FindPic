@@ -1,0 +1,12 @@
+F:\Program\Findpic\Findpic\bin\Debug\Findpic.exe
+F:\Program\Findpic\Findpic\bin\Debug\Findpic.pdb
+F:\Program\Findpic\Findpic\obj\x86\Debug\Findpic.Form1.resources
+F:\Program\Findpic\Findpic\obj\x86\Debug\Findpic.Properties.Resources.resources
+F:\Program\Findpic\Findpic\obj\x86\Debug\Findpic.csproj.GenerateResource.Cache
+F:\Program\Findpic\Findpic\obj\x86\Debug\Findpic.exe
+F:\Program\Findpic\Findpic\obj\x86\Debug\Findpic.pdb
+F:\Program\Findpic\Findpic\obj\x86\Debug\Findpic.csprojResolveAssemblyReference.cache
+F:\Program\Findpic\Findpic\bin\Debug\Findpic.exe.config
+E:\Program\Findpic\Findpic\bin\Debug\Findpic.exe.config
+E:\Program\Findpic\Findpic\obj\x86\Debug\Findpic.exe
+E:\Program\Findpic\Findpic\obj\x86\Debug\Findpic.pdb

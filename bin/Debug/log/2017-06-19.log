@@ -1,0 +1,9 @@
+2017-06-19 10:02:52找到抓拍文件夹：2017-05-10 开始CarNo：8443开始CarNo：8443
+2017-06-19 10:02:52查找异常：System.IO.DirectoryNotFoundException: 未能找到路径“E:\HWCarm\192.168.0.168\2017-05-10”的一部分。
+   在 System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   在 System.IO.FileSystemEnumerableIterator`1.CommonInit()
+   在 System.IO.FileSystemEnumerableIterator`1..ctor(String path, String originalUserPath, String searchPattern, SearchOption searchOption, SearchResultHandler`1 resultHandler, Boolean checkHost)
+   在 System.IO.DirectoryInfo.InternalGetFiles(String searchPattern, SearchOption searchOption)
+   在 System.IO.DirectoryInfo.GetFiles(String searchPattern, SearchOption searchOption)
+   在 Findpic.Form1.FindAllPic(String s_Data, String MarchStr, Int32 CarNo, String forceTime, Int32 Count) 位置 F:\Program\Findpic\Findpic\Form1.cs:行号 39
+   在 Findpic.Form1.btnFind_Click(Object sender, EventArgs e) 位置 F:\Program\Findpic\Findpic\Form1.cs:行号 207
